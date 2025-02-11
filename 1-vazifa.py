@@ -6,6 +6,8 @@
 #         print("Manzilingiz noto'g'ri!")
 
 # parollar = ["password123", "Qwerty!", "admin", "StrongPass1!"]
+# parollar = ["password123", "Qwerty!", "admin", "StrongPass1!"]
+# parollar = ["password123", "Qwerty!", "admin", "StrongPass1!"]
 # # for parol in parollar:
 # #     if len(parol) < 8:
 # #         print(f'parol "{parol}" juda qisqa.')
